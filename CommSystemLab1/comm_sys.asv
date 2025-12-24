@@ -1,0 +1,7 @@
+t=-5:k0;
+y=(t==0);
+plot(t,y)
+xlabel('time domain(t)');
+ylabel('amplitude del(t)');
+title('continuous time impulse single');
+
